@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 3, 2026 at 16:14 UTC</small></sub>
+<sub><small>Last updated: Oct 4, 2026 at 16:51 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -14,6 +14,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior VFX Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 2 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-systems-designer-5aa5d98b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Systems Designer](https://jobsingames.com/jobs/2k-senior-systems-designer-5aa5d98b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Oct 1 |
+| **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 1 |
 | **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-f57780f6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-f57780f6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 1 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-sr-game-designer-d9c8aff5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Sr Game Designer](https://jobsingames.com/jobs/playstation-sr-game-designer-d9c8aff5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Canada, Montreal, QC | On Site | Full Time | Oct 1 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-ui-tech-artist-3a882ce7?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior UI Tech Artist](https://jobsingames.com/jobs/2k-senior-ui-tech-artist-3a882ce7?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Frisco, Texas, United States | On Site | Full Time | Oct 1 |
@@ -48,12 +49,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 33 jobs | 6% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 34 jobs | 6% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-03 archive](archive/2026-10-03.md)
+- [2026-10-04 archive](archive/2026-10-04.md)
 
 ## About This Repository
 
