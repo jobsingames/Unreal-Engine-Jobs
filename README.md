@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 4, 2026 at 16:51 UTC</small></sub>
+<sub><small>Last updated: Oct 6, 2026 at 18:26 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Art Lead, Rigging - VALORANT, Agents](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Producer II - VALORANT, Developer Experience](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior VFX Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 2 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-systems-designer-5aa5d98b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Systems Designer](https://jobsingames.com/jobs/2k-senior-systems-designer-5aa5d98b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Oct 1 |
 | **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 1 |
@@ -49,12 +51,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 34 jobs | 6% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 36 jobs | 6% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-04 archive](archive/2026-10-04.md)
+- [2026-10-06 archive](archive/2026-10-06.md)
 
 ## About This Repository
 
