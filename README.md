@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 7, 2026 at 18:56 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Zynga](https://jobsingames.com/jobs/zynga-server-and-infrastructure-engineer-unannounced-project-1cb1214f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Server & Infrastructure Engineer - Unannounced project](https://jobsingames.com/jobs/zynga-server-and-infrastructure-engineer-unannounced-project-1cb1214f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | London, UK | On Site | Full Time | Oct 9 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-senior-technical-animator-unannounced-project-d7b48dc6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Technical Animator - Unannounced Project](https://jobsingames.com/jobs/zynga-senior-technical-animator-unannounced-project-d7b48dc6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | London, UK | On Site | Full Time | Oct 9 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-manager-software-engineering-af18fa6a?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Manager, Software Engineering](https://jobsingames.com/jobs/riot-games-manager-software-engineering-af18fa6a?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Sydney, Australia | On Site | Full Time | Oct 9 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Combat Game Designer](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 7 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Art Lead, Rigging - VALORANT, Agents](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Producer II - VALORANT, Developer Experience](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior VFX Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 2 |
@@ -43,20 +47,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-content-producer-9b564271?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Content Producer](https://jobsingames.com/jobs/playstation-content-producer-9b564271?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Canada, Montreal, QC | On Site | Full Time | Sep 17 |
 | **[2K](https://jobsingames.com/jobs/2k-gameplay-animator-1b310da3?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Gameplay Animator](https://jobsingames.com/jobs/2k-gameplay-animator-1b310da3?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Sep 15 |
 | **[2K](https://jobsingames.com/jobs/2k-expert-gameplay-animator-020efc5f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Expert Gameplay Animator](https://jobsingames.com/jobs/2k-expert-gameplay-animator-020efc5f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Sep 15 |
-| **[Epic Games](https://jobsingames.com/jobs/epic-games-level-design-intern-1cad3afa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Level Design Intern](https://jobsingames.com/jobs/epic-games-level-design-intern-1cad3afa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Cary,North Carolina,United States | On Site | intern | Sep 14 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-ui-engineering-lead-33c3eb0c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[UI Engineering Lead](https://jobsingames.com/jobs/playstation-ui-engineering-lead-33c3eb0c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | United States, Remote | Remote | Full Time | Sep 14 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-ux-designer-unpublished-r-and-d-product-5ca4b021?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior UX Designer – Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-ux-designer-unpublished-r-and-d-product-5ca4b021?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Sydney, Australia | On Site | Full Time | Sep 14 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-3d-character-artist-unpublished-r-and-d-product-db77f146?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Principal 3D Character Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-principal-3d-character-artist-unpublished-r-and-d-product-db77f146?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Sep 9 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-lead-lighting-artist-0c4b84a7?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Lead Lighting Artist](https://jobsingames.com/jobs/playstation-lead-lighting-artist-0c4b84a7?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Finland, Helsinki | On Site | Full Time | Apr 30 |
 
 ---
 
-**Current Stats:** 36 jobs | 6% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 35 jobs | 3% remote | 6 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-07 archive](archive/2026-10-07.md)
+- [2026-10-12 archive](archive/2026-10-12.md)
 
 ## About This Repository
 
