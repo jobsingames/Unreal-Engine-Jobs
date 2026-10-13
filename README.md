@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Principal 3D Environment Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Software Engineer - Unannounced Project](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | London, UK | On Site | Full Time | Oct 12 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-server-and-infrastructure-engineer-unannounced-project-1cb1214f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Server & Infrastructure Engineer - Unannounced project](https://jobsingames.com/jobs/zynga-server-and-infrastructure-engineer-unannounced-project-1cb1214f?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | London, UK | On Site | Full Time | Oct 9 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-senior-technical-animator-unannounced-project-d7b48dc6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Technical Animator - Unannounced Project](https://jobsingames.com/jobs/zynga-senior-technical-animator-unannounced-project-d7b48dc6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | London, UK | On Site | Full Time | Oct 9 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-manager-software-engineering-af18fa6a?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Manager, Software Engineering](https://jobsingames.com/jobs/riot-games-manager-software-engineering-af18fa6a?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Sydney, Australia | On Site | Full Time | Oct 9 |
@@ -50,12 +52,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 35 jobs | 3% remote | 6 companies | 0 salary ranges listed
+**Current Stats:** 37 jobs | 3% remote | 6 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
