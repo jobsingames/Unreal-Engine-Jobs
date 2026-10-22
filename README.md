@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,11 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-manager-software-engineering-valorant-player-dynamics-a9e4eb00?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Manager, Software Engineering - VALORANT, Player Dynamics](https://jobsingames.com/jobs/riot-games-manager-software-engineering-valorant-player-dynamics-a9e4eb00?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 21 |
+| **[Epic Games](https://jobsingames.com/jobs/epic-games-senior-qa-engineer-cb58408c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior QA Engineer](https://jobsingames.com/jobs/epic-games-senior-qa-engineer-cb58408c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Oct 21 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-game-designer-level-unpublished-r-and-d-product-906732d1?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Game Designer, Level - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-game-designer-level-unpublished-r-and-d-product-906732d1?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 21 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-game-designer-combat-unpublished-r-and-d-product-d138cfc4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Game Designer, Combat – Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-game-designer-combat-unpublished-r-and-d-product-d138cfc4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 21 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-director-of-engineering-e8547fb0?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Director of Engineering](https://jobsingames.com/jobs/zynga-director-of-engineering-e8547fb0?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Barcelona, Spain | On Site | Full Time | Oct 20 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-technical-game-designer-unpublished-r-and-d-product-88bad43c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Technical Game Designer - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-technical-game-designer-unpublished-r-and-d-product-88bad43c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 20 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-software-engineer-social-and-store-unpublished-r-and-d-product-1d295354?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Software Engineer, Social & Store, Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-software-engineer-social-and-store-unpublished-r-and-d-product-1d295354?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Sydney, Australia | On Site | Full Time | Oct 20 |
 | **[2K](https://jobsingames.com/jobs/2k-technical-test-analyst-ii-i-c6a240aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Test Analyst II / I](https://jobsingames.com/jobs/2k-technical-test-analyst-ii-i-c6a240aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Vancouver, British Columbia, Canada | On Site | Full Time | Oct 16 |
@@ -59,12 +64,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 44 jobs | 2% remote | 6 companies | 0 salary ranges listed
+**Current Stats:** 49 jobs | 2% remote | 6 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
