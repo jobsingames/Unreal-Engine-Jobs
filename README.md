@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -50,16 +50,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Art Lead, Rigging - VALORANT, Agents](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Producer II - VALORANT, Developer Experience](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 1 |
-| **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-f57780f6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-f57780f6?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 1 |
 
 ---
 
-**Current Stats:** 39 jobs | 0% remote | 5 companies | 0 salary ranges listed
+**Current Stats:** 38 jobs | 0% remote | 5 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-29 archive](archive/2026-10-29.md)
+- [2026-10-30 archive](archive/2026-10-30.md)
 
 ## About This Repository
 
