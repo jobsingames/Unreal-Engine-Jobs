@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[2K](https://jobsingames.com/jobs/2k-senior-writer-d5b0840d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Writer](https://jobsingames.com/jobs/2k-senior-writer-d5b0840d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Novato, California, United States | On Site | Full Time | Oct 30 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-3b991d7c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Sr. Manager, QA Engineering & Automation](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-3b991d7c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | CA - Canada | On Site | Full Time | Oct 28 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-software-engineer-tools-unpublished-r-and-d-product-160f3928?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Software Engineer, Tools - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-software-engineer-tools-unpublished-r-and-d-product-160f3928?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 27 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-rendering-technical-artist-unpublished-r-and-d-product-d8f0f831?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Rendering Technical Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-rendering-technical-artist-unpublished-r-and-d-product-d8f0f831?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 27 |
@@ -53,12 +54,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 38 jobs | 0% remote | 5 companies | 0 salary ranges listed
+**Current Stats:** 39 jobs | 0% remote | 5 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-30 archive](archive/2026-10-30.md)
+- [2026-10-31 archive](archive/2026-10-31.md)
 
 ## About This Repository
 
