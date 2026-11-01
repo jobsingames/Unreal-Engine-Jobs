@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
+<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -13,7 +13,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[2K](https://jobsingames.com/jobs/2k-senior-writer-d5b0840d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Writer](https://jobsingames.com/jobs/2k-senior-writer-d5b0840d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Novato, California, United States | On Site | Full Time | Oct 30 |
+| **[2K](https://jobsingames.com/jobs/2k-senior-writer-d24ed655?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Writer](https://jobsingames.com/jobs/2k-senior-writer-d24ed655?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Montréal, Quebec, Canada | On Site | Full Time | Oct 30 |
+| **[2K](https://jobsingames.com/jobs/2k-senior-technical-animator-d496e2c0?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Technical Animator](https://jobsingames.com/jobs/2k-senior-technical-animator-d496e2c0?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Novato, California, United States | On Site | Full Time | Oct 29 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-3b991d7c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Sr. Manager, QA Engineering & Automation](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-3b991d7c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | CA - Canada | On Site | Full Time | Oct 28 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-b16c56ed?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Sr. Manager, QA Engineering & Automation](https://jobsingames.com/jobs/scopely-sr-manager-qa-engineering-and-automation-b16c56ed?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | US - Culver City, California, United States; US - United States | On Site | Full Time | Oct 28 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-software-engineer-tools-unpublished-r-and-d-product-160f3928?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Software Engineer, Tools - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-software-engineer-tools-unpublished-r-and-d-product-160f3928?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 27 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-rendering-technical-artist-unpublished-r-and-d-product-d8f0f831?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Rendering Technical Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-rendering-technical-artist-unpublished-r-and-d-product-d8f0f831?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 27 |
 | **[2K](https://jobsingames.com/jobs/2k-staff-quality-assurance-engineer-c7b7e1aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Staff Quality Assurance Engineer](https://jobsingames.com/jobs/2k-staff-quality-assurance-engineer-c7b7e1aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 26 |
@@ -50,16 +53,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Scopely](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Combat Game Designer](https://jobsingames.com/jobs/scopely-combat-game-designer-84bc116c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 7 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Art Lead, Rigging - VALORANT, Agents](https://jobsingames.com/jobs/riot-games-technical-art-lead-rigging-valorant-agents-4383e0be?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Producer II - VALORANT, Developer Experience](https://jobsingames.com/jobs/riot-games-technical-producer-ii-valorant-developer-experience-1d810ba5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 5 |
-| **[2K](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Build Systems Engineer](https://jobsingames.com/jobs/2k-build-systems-engineer-9691d454?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 1 |
 
 ---
 
-**Current Stats:** 39 jobs | 0% remote | 5 companies | 0 salary ranges listed
+**Current Stats:** 41 jobs | 0% remote | 5 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-31 archive](archive/2026-10-31.md)
+- [2026-11-01 archive](archive/2026-11-01.md)
 
 ## About This Repository
 
