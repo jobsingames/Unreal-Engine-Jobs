@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Nov 11, 2026 at 19:33 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,9 +12,11 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Game Design Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-animation-art-intern-summer-2027-31347c9b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Animation Art Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-animation-art-intern-summer-2027-31347c9b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | intern | Nov 10 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-producer-ea8e9a90?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Producer](https://jobsingames.com/jobs/scopely-producer-ea8e9a90?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | US - United States | On Site | Full Time | Nov 10 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-ui-artist-ceac6b5e?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior UI Artist](https://jobsingames.com/jobs/2k-senior-ui-artist-ceac6b5e?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 10 |
+| **[2K](https://jobsingames.com/jobs/2k-games-ux-designer-b8f1fa68?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Games UX Designer](https://jobsingames.com/jobs/2k-games-ux-designer-b8f1fa68?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 10 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-platform-performance-engineer-933db836?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Platform Performance Engineer](https://jobsingames.com/jobs/2k-senior-platform-performance-engineer-933db836?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 10 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-3d-artist-64fe704e?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior 3D Artist](https://jobsingames.com/jobs/2k-senior-3d-artist-64fe704e?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Lunenburg, Nova Scotia, Canada; Nova Scotia, Canada | On Site | Full Time | Nov 9 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-senior-client-engineer-stumble-guys-177c2d12?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Client Engineer - Stumble Guys!](https://jobsingames.com/jobs/scopely-senior-client-engineer-stumble-guys-177c2d12?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 8 |
@@ -34,20 +36,16 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[2K](https://jobsingames.com/jobs/2k-staff-quality-assurance-engineer-c7b7e1aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Staff Quality Assurance Engineer](https://jobsingames.com/jobs/2k-staff-quality-assurance-engineer-c7b7e1aa?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Austin, Texas, United States | On Site | Full Time | Oct 26 |
 | **[2K](https://jobsingames.com/jobs/2k-gameplay-animator-2ae27389?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Gameplay Animator](https://jobsingames.com/jobs/2k-gameplay-animator-2ae27389?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Oct 22 |
 | **[Epic Games](https://jobsingames.com/jobs/epic-games-senior-character-artist-314cdce5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Character Artist](https://jobsingames.com/jobs/epic-games-senior-character-artist-314cdce5?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Oct 22 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-manager-software-engineering-valorant-player-dynamics-a9e4eb00?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Manager, Software Engineering - VALORANT, Player Dynamics](https://jobsingames.com/jobs/riot-games-manager-software-engineering-valorant-player-dynamics-a9e4eb00?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 21 |
-| **[Epic Games](https://jobsingames.com/jobs/epic-games-senior-qa-engineer-cb58408c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior QA Engineer](https://jobsingames.com/jobs/epic-games-senior-qa-engineer-cb58408c?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Oct 21 |
 | **[Epic Games](https://jobsingames.com/jobs/epic-games-sdet-74b9dbb8?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[SDET](https://jobsingames.com/jobs/epic-games-sdet-74b9dbb8?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Bellevue,Washington,United States | On Site | Full Time | Oct 21 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-game-designer-level-unpublished-r-and-d-product-906732d1?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Game Designer, Level - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-game-designer-level-unpublished-r-and-d-product-906732d1?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 21 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-game-designer-combat-unpublished-r-and-d-product-d138cfc4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Game Designer, Combat – Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-game-designer-combat-unpublished-r-and-d-product-d138cfc4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Shanghai, China | On Site | Full Time | Oct 21 |
 
 ---
 
-**Current Stats:** 27 jobs | 0% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 25 jobs | 0% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-11 archive](archive/2026-11-11.md)
+- [2026-11-12 archive](archive/2026-11-12.md)
 
 ## About This Repository
 
