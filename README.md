@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[2K](https://jobsingames.com/jobs/2k-senior-technical-ui-designer-3c8b99e4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Technical UI Designer](https://jobsingames.com/jobs/2k-senior-technical-ui-designer-3c8b99e4?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 14 |
+| **[2K](https://jobsingames.com/jobs/2k-art-director-1ba48afe?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Art Director](https://jobsingames.com/jobs/2k-art-director-1ba48afe?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 14 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Motion Designer](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Technical Game Design Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-animation-art-intern-summer-2027-31347c9b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Animation Art Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-animation-art-intern-summer-2027-31347c9b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA | On Site | intern | Nov 10 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-producer-ea8e9a90?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Producer](https://jobsingames.com/jobs/scopely-producer-ea8e9a90?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | US - United States | On Site | Full Time | Nov 10 |
@@ -37,12 +40,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 22 jobs | 0% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 25 jobs | 0% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 
