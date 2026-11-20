@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unreal Engine Jobs — 2026
 
-<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
 
 Daily Unreal Engine jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Epic Games](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Principal Animator](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Nov 19 |
+| **[2K](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Gameplay Audio Software Engineer](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Vancouver, British Columbia, Canada | On Site | Full Time | Nov 19 |
 | **[2K](https://jobsingames.com/jobs/2k-senior-online-systems-engineer-4499e455?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Senior Online Systems Engineer](https://jobsingames.com/jobs/2k-senior-online-systems-engineer-4499e455?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 18 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-vfx-artist-unpublished-r-and-d-product-67c1c6e8?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Principal VFX Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-principal-vfx-artist-unpublished-r-and-d-product-67c1c6e8?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA; Mercer Island, USA | On Site | Full Time | Nov 18 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-valorant-maps-dd11589b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | **[Principal 3D Environment Artist - VALORANT, Maps](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-valorant-maps-dd11589b?utm_source=github&utm_medium=repo&utm_campaign=github-unreal-jobs)** | Los Angeles, USA; Mercer Island, USA | On Site | Full Time | Nov 17 |
@@ -42,12 +44,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 27 jobs | 0% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 29 jobs | 0% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-19 archive](archive/2026-11-19.md)
+- [2026-11-20 archive](archive/2026-11-20.md)
 
 ## About This Repository
 
